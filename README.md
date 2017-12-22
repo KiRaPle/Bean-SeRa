@@ -1,0 +1,2 @@
+# Bean-SeRa
+AI Project
